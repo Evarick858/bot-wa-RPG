@@ -1313,8 +1313,8 @@ Achievement, Quest, Title, PvP
 
     // URL dan API Key (Anda bisa menyimpannya di sini atau di file konfigurasi)
     // PENTING: Jangan membagikan API Key Anda secara publik.
-    const apiKey = "AIzaSyAqUvQPtc6ZOs_pK2DfuBxi46XpxVbl7nU"; // Ganti dengan API Key Anda yang valid
-    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
+    const apiKey = "...."; // Ganti dengan API Key Anda yang valid
+    const apiUrl = `....`;
 
     // 1. Buat payload dengan format yang benar untuk Gemini API
     const payload = {
