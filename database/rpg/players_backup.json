@@ -1,0 +1,1656 @@
+{
+  "6282239902921@s.whatsapp.net": {
+    "nama": "Evarick",
+    "kelas": "Assassin",
+    "level": 501,
+    "hp": 5410,
+    "maxHp": 5410,
+    "mana": 2550,
+    "maxMana": 2610,
+    "attack": 1015,
+    "defense": 505,
+    "gold": 54936,
+    "lokasi": "Toko Ramuan Bu Winda",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Helem Baja",
+      "zirah": null,
+      "celana": null,
+      "sepatu": "Sepatu Sihir",
+      "senjata": "Pedang Baja",
+      "aksesoris": "Kalung Baja"
+    },
+    "tas": {
+      "Daging": 5,
+      "Sayap Kelelawar": 1,
+      "Darah Lintah": 1,
+      "Capit Kepiting": 1,
+      "Potion HP": 2,
+      "low heal potion": 29,
+      "Low Heal Potion": 1
+    },
+    "tools": {
+      "Beliung Kayu_1751118704966": {
+        "id": "Beliung Kayu_1751118704966",
+        "nama": "Beliung Kayu",
+        "tipe": "beliung",
+        "durability": 60,
+        "maxDurability": 60,
+        "tier": "kayu",
+        "stats": {
+          "mining": 1
+        },
+        "hargaJual": 70
+      },
+      "Beliung Netherite_1751118893583": {
+        "id": "Beliung Netherite_1751118893583",
+        "nama": "Beliung Netherite",
+        "tipe": "beliung",
+        "durability": 799,
+        "maxDurability": 800,
+        "tier": "netherite",
+        "stats": {
+          "mining": 8
+        },
+        "hargaJual": 3000
+      },
+      "Kapak Netherite_1751118902863": {
+        "id": "Kapak Netherite_1751118902863",
+        "nama": "Kapak Netherite",
+        "tipe": "kapak",
+        "durability": 593,
+        "maxDurability": 600,
+        "tier": "netherite",
+        "stats": {
+          "chopping": 8
+        },
+        "hargaJual": 2500
+      },
+      "Pancingan Netherite_1751118908054": {
+        "id": "Pancingan Netherite_1751118908054",
+        "nama": "Pancingan Netherite",
+        "tipe": "pancingan",
+        "durability": 491,
+        "maxDurability": 500,
+        "tier": "netherite",
+        "stats": {
+          "fishing": 8
+        },
+        "hargaJual": 2000
+      }
+    },
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "GOD KILLER",
+      "Petarung",
+      "Ksatria",
+      "Pembunuh",
+      "Legenda",
+      "Mitos",
+      "Dewa",
+      "Petani",
+      "Pedagang",
+      "Konglomerat",
+      "Raja Emas",
+      "Tuhan Kekayaan",
+      "Assassin Master",
+      "Penjelajah",
+      "Bot Administrator",
+      "Penjelajah Dunia"
+    ],
+    "skills": [
+      "fighter_serangan_ganda",
+      "fighter_pemecah_tengkorak"
+    ],
+    "monsterKills": 26,
+    "miningCount": 3,
+    "woodcuttingCount": 11,
+    "fishingCount": 10,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Goa Misterius",
+      "Gunung Berapi",
+      "Gurun Pasir Tandus",
+      "Reruntuhan Kuno",
+      "Makam Firaun",
+      "Koridor Labirin",
+      "Rawa Kabut",
+      "Terowongan Magma",
+      "Danau Tenang",
+      "Lereng Bersalju",
+      "Pesisir Pantai",
+      "Toko peralatan mas Buudi",
+      "Toko Ramuan Bu Winda"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750652343577,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 26,
+          "weekly_mine": 3,
+          "weekly_fish": 10
+        },
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 1
+          },
+          "story_challenge": {
+            "monsterKills": 7
+          },
+          "story_legend": {
+            "monsterKills": 7
+          }
+        },
+        "completed": {
+          "story_beginning": true,
+          "story_challenge": true,
+          "story_legend": true
+        },
+        "current": "story_beginning",
+        "claimed": {
+          "story_beginning": true,
+          "story_challenge": true,
+          "story_legend": true
+        }
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "monster_hunter": 26,
+        "woodcutter": 11,
+        "mining_master": 3,
+        "fishing_expert": 10
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750652343577,
+    "lastUpdated": 1751368206204
+  },
+  "601111806515@s.whatsapp.net": {
+    "nama": "fw",
+    "kelas": "Archer",
+    "level": 1,
+    "hp": 308,
+    "maxHp": 2000,
+    "mana": 50,
+    "maxMana": 140,
+    "attack": 43,
+    "defense": 5,
+    "gold": 10000,
+    "lokasi": "Toko peralatan mas Buudi",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Topi Besi",
+      "zirah": "Jubah Besi",
+      "celana": "Celana Baja",
+      "sepatu": "Sepatu Baja",
+      "senjata": "Busur Besi",
+      "aksesoris": "Kalung Besi"
+    },
+    "tas": {
+      "Busur Pemburu": 1,
+      "Ikan": 2
+    },
+    "tools": {
+      "Kapak Netherite_1751294829801": {
+        "id": "Kapak Netherite_1751294829801",
+        "nama": "Kapak Netherite",
+        "tipe": "kapak",
+        "durability": 600,
+        "maxDurability": 600,
+        "tier": "netherite",
+        "stats": {
+          "chopping": 8
+        },
+        "hargaJual": 2500
+      },
+      "Pancingan Netherite_1751294885356": {
+        "id": "Pancingan Netherite_1751294885356",
+        "nama": "Pancingan Netherite",
+        "tipe": "pancingan",
+        "durability": 500,
+        "maxDurability": 500,
+        "tier": "netherite",
+        "stats": {
+          "fishing": 8
+        },
+        "hargaJual": 2000
+      },
+      "Beliung Netherite_1751294905623": {
+        "id": "Beliung Netherite_1751294905623",
+        "nama": "Beliung Netherite",
+        "tipe": "beliung",
+        "durability": 800,
+        "maxDurability": 800,
+        "tier": "netherite",
+        "stats": {
+          "mining": 8
+        },
+        "hargaJual": 3000
+      }
+    },
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Penjelajah",
+      "Petani",
+      "Penjelajah Dunia",
+      "Terlengkapi"
+    ],
+    "skills": [],
+    "monsterKills": 26,
+    "miningCount": 5,
+    "woodcuttingCount": 2,
+    "fishingCount": 2,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Goa Misterius",
+      "Gunung Berapi",
+      "Gurun Pasir Tandus",
+      null,
+      "Danau Tenang",
+      null,
+      "Terowongan Magma",
+      "Rawa Kabut",
+      "Jantung Rawa",
+      "Perbatasan Busuk",
+      "Lereng Bersalju",
+      "Puncak Es Abadi",
+      "Portal Retak",
+      "Ambang Aether",
+      "Pesisir Pantai",
+      "Toko peralatan mas Buudi"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750653795885,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {
+          "daily_hunt": 1
+        },
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 26,
+          "weekly_mine": 5,
+          "weekly_fish": 2
+        },
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 26
+          },
+          "story_challenge": {
+            "monsterKills": 26
+          },
+          "story_legend": {
+            "monsterKills": 26
+          }
+        },
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 27,
+      "progress": {
+        "monster_hunter": 1
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750653795885,
+    "lastUpdated": 1751368206204
+  },
+  "6283849897128@s.whatsapp.net": {
+    "nama": "Ren",
+    "kelas": "Assassin",
+    "level": 18,
+    "hp": 321,
+    "maxHp": 610,
+    "mana": 100,
+    "maxMana": 100,
+    "attack": 15,
+    "defense": 5,
+    "gold": 2450,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Mahkota Sihir",
+      "zirah": null,
+      "celana": "Celana Baja",
+      "sepatu": null,
+      "senjata": "Pedang Baja",
+      "aksesoris": null
+    },
+    "tas": {
+      "Title: Pemula": 1,
+      "Belati Gesit": 1,
+      "Helem Besi": 1,
+      "Capit Kepiting": 15,
+      "Bisa Ular Laut": 1,
+      "Kayu Ajaib": 1,
+      "Kayu": 5,
+      "Daun Kering": 1,
+      "Kayu Keras": 1,
+      "Ranting": 2,
+      "Pisang Emas": 1,
+      "Ikan Bawal": 10,
+      "Ikan Hiu Besar": 1,
+      "Ikan Lumba-lumba": 5,
+      "Ikan Lele": 10,
+      "Ikan Kakap": 6,
+      "Ikan Paus Mini": 2,
+      "Ikan Mas": 18,
+      "Ikan Hiu Kecil": 1,
+      "Ikan Nila": 13,
+      "Ikan Gurame": 10,
+      "Ikan Pari": 2,
+      "Ikan Tuna": 1,
+      "Ikan Tenggiri": 1,
+      "Daging": 7,
+      "Kulit Serigala": 1,
+      "Potion HP": 2,
+      "Pedang Besi": 1
+    },
+    "tools": {
+      "Kapak Batu_1751119024483": {
+        "id": "Kapak Batu_1751119024483",
+        "nama": "Kapak Batu",
+        "tipe": "kapak",
+        "durability": 90,
+        "maxDurability": 100,
+        "tier": "batu",
+        "stats": {
+          "chopping": 2
+        },
+        "hargaJual": 150
+      },
+      "Beliung Batu_1751120031922": {
+        "id": "Beliung Batu_1751120031922",
+        "nama": "Beliung Batu",
+        "tipe": "beliung",
+        "durability": 120,
+        "maxDurability": 120,
+        "tier": "batu",
+        "stats": {
+          "mining": 2
+        },
+        "hargaJual": 180
+      },
+      "Pancingan Batu_1751121342843": {
+        "id": "Pancingan Batu_1751121342843",
+        "nama": "Pancingan Batu",
+        "tipe": "pancingan",
+        "durability": 80,
+        "maxDurability": 80,
+        "tier": "batu",
+        "stats": {
+          "fishing": 2
+        },
+        "hargaJual": 120
+      }
+    },
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Penjelajah",
+      "Penjelajah Dunia",
+      "Petarung",
+      "Pemburu"
+    ],
+    "skills": [],
+    "monsterKills": 107,
+    "miningCount": 52,
+    "woodcuttingCount": 66,
+    "fishingCount": 181,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Danau Tenang",
+      "Rawa Kabut",
+      "Pesisir Pantai",
+      "Dermaga Tua",
+      "Pulau Karang",
+      "Hutan Tropis",
+      "Jurang Laut Dalam",
+      "Goa Misterius",
+      "Gunung Berapi",
+      "Jantung Rawa",
+      "Perbatasan Busuk",
+      "Hutan Bengkok",
+      "Lereng Bersalju",
+      "Terowongan Magma",
+      "Kota Bawah Tanah",
+      "Gerbang Perunggu",
+      "Jalan Roda Gigi",
+      "Menara Jam Abadi",
+      "Pabrik Golem",
+      "Gurun Pasir Tandus",
+      "Oasis Tersembunyi",
+      "Reruntuhan Kuno",
+      "Makam Firaun",
+      "Koridor Labirin",
+      "Toko peralatan mas Buudi"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [
+      {
+        "date": "Sat Jun 28 2025",
+        "stats": {
+          "level": 18,
+          "gold": 250,
+          "hp": 321,
+          "maxHp": 610,
+          "mana": 100,
+          "maxMana": 100,
+          "attack": 15,
+          "defense": 5,
+          "monsterKills": 107,
+          "miningCount": 52,
+          "woodcuttingCount": 66,
+          "fishingCount": 181,
+          "titles": 6,
+          "equipment": 3,
+          "visitedLocations": 27,
+          "totalPlayTime": 362303573,
+          "consecutiveDays": 0
+        }
+      }
+    ],
+    "totalPlayTime": 362303573,
+    "lastLogin": 1751121631830,
+    "achievements": {
+      "unlocked": [
+        "First Blood",
+        "Fishing Beginner"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 100,
+          "weekly_fish": 181,
+          "weekly_mine": 52
+        },
+        "completed": {
+          "weekly_hunt": true
+        },
+        "lastReset": null,
+        "claimed": {
+          "weekly_hunt": true
+        }
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 60
+          },
+          "story_challenge": {
+            "monsterKills": 107
+          },
+          "story_legend": {
+            "monsterKills": 107
+          }
+        },
+        "completed": {
+          "story_beginning": true
+        },
+        "current": "story_beginning",
+        "claimed": {
+          "story_beginning": true
+        }
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "woodcutter": 66,
+        "monster_hunter": 100,
+        "fishing_expert": 181,
+        "mining_master": 52
+      },
+      "completed": {
+        "monster_hunter": true
+      },
+      "claimed": {}
+    },
+    "joinDate": 1750759328257,
+    "lastUpdated": 1751368206204
+  },
+  "6281247835998@s.whatsapp.net": {
+    "nama": "kopro",
+    "kelas": "Adventurer",
+    "level": 1,
+    "hp": 100,
+    "maxHp": 100,
+    "mana": 50,
+    "maxMana": 50,
+    "attack": 10,
+    "defense": 5,
+    "gold": 100,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": false,
+    "equipment": {
+      "helem": null,
+      "zirah": null,
+      "celana": null,
+      "sepatu": null,
+      "senjata": null,
+      "aksesoris": null
+    },
+    "tas": {},
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [],
+    "skills": [],
+    "monsterKills": 0,
+    "miningCount": 0,
+    "woodcuttingCount": 0,
+    "fishingCount": 0,
+    "visitedLocations": [
+      "Desa Awal"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750761283225,
+    "achievements": {
+      "unlocked": [],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {},
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {},
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {},
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750761283225,
+    "lastUpdated": 1751368206204
+  },
+  "6281344443280@s.whatsapp.net": {
+    "nama": "Nekoeditz",
+    "kelas": "Archer",
+    "level": 1,
+    "hp": 115,
+    "maxHp": 115,
+    "mana": 50,
+    "maxMana": 50,
+    "attack": 14,
+    "defense": 5,
+    "gold": 215,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": null,
+      "zirah": null,
+      "celana": null,
+      "sepatu": null,
+      "senjata": "Busur Pemburu",
+      "aksesoris": null
+    },
+    "tas": {
+      "Potion HP": 1,
+      "Kapak Besi": 1
+    },
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin"
+    ],
+    "skills": [],
+    "monsterKills": 1,
+    "miningCount": 0,
+    "woodcuttingCount": 10,
+    "fishingCount": 0,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750802770303,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 1
+        },
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 1
+          },
+          "story_challenge": {
+            "monsterKills": 1
+          },
+          "story_legend": {
+            "monsterKills": 1
+          }
+        },
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "woodcutter": 10,
+        "monster_hunter": 1
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750802770303,
+    "lastUpdated": 1751368206204
+  },
+  "6285717091536@s.whatsapp.net": {
+    "nama": "Proksi",
+    "kelas": "Tank",
+    "level": 149,
+    "hp": 7070,
+    "maxHp": 7070,
+    "mana": 420,
+    "maxMana": 580,
+    "attack": 8,
+    "defense": 13,
+    "gold": 5906,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Mahkota Sihir",
+      "zirah": "Jubah Besi",
+      "celana": "Celana Baja",
+      "sepatu": "Sepatu Besi",
+      "senjata": "Pedang Baja",
+      "aksesoris": "Cincin Emas"
+    },
+    "tas": {
+      "Title: Pemula": 1,
+      "Title: Petarung": 1,
+      "Helem Baja": 1
+    },
+    "tools": {
+      "Beliung Besi_1751126920621": {
+        "id": "Beliung Besi_1751126920621",
+        "nama": "Beliung Besi",
+        "tipe": "beliung",
+        "durability": 98,
+        "maxDurability": 250,
+        "tier": "besi",
+        "stats": {
+          "mining": 3
+        },
+        "hargaJual": 450
+      },
+      "Kapak Besi_1751126926775": {
+        "id": "Kapak Besi_1751126926775",
+        "nama": "Kapak Besi",
+        "tipe": "kapak",
+        "durability": 162,
+        "maxDurability": 200,
+        "tier": "besi",
+        "stats": {
+          "chopping": 3
+        },
+        "hargaJual": 400
+      },
+      "Pancingan Besi_1751126933737": {
+        "id": "Pancingan Besi_1751126933737",
+        "nama": "Pancingan Besi",
+        "tipe": "pancingan",
+        "durability": 118,
+        "maxDurability": 150,
+        "tier": "besi",
+        "stats": {
+          "fishing": 3
+        },
+        "hargaJual": 300
+      }
+    },
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Penjelajah",
+      "Terlengkapi",
+      "Penjelajah Dunia",
+      "Petarung",
+      "Ksatria",
+      "Pembunuh",
+      "Tank Master",
+      "Legenda",
+      "Pemburu"
+    ],
+    "skills": [],
+    "monsterKills": 104,
+    "miningCount": 202,
+    "woodcuttingCount": 81,
+    "fishingCount": 94,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Goa Misterius",
+      "Gunung Berapi",
+      "Gurun Pasir Tandus",
+      "Reruntuhan Kuno",
+      "Danau Tenang",
+      "Rawa Kabut",
+      "Jantung Rawa",
+      "Pesisir Pantai",
+      "Terowongan Magma",
+      "Lereng Bersalju",
+      "Kuil Beku",
+      "Altar Es",
+      "Perpustakaan Beku",
+      "Perbatasan Busuk",
+      "Puncak Es Abadi",
+      "Jembatan Pelangi",
+      "Avanthoria, Kota Awan",
+      "Padang Rumput Angin",
+      "Portal Retak",
+      "Ambang Aether",
+      "Taman Gantung Abadi",
+      "Benteng Paradox",
+      "Reruntuhan Kuil Angin",
+      "Altar Badai",
+      "Toko peralatan mas Buudi",
+      "Dermaga Tua",
+      "Jurang Laut Dalam",
+      "Reruntuhan Bawah Laut",
+      "Istana Abisal",
+      "Pulau Karang",
+      "Toko Sihir Bu Winda",
+      "Kota Bawah Tanah",
+      "Gerbang Perunggu",
+      "Jalan Roda Gigi",
+      "Pabrik Golem"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [
+      {
+        "date": "Sat Jun 28 2025",
+        "stats": {
+          "level": 1,
+          "gold": 4192,
+          "hp": 715,
+          "maxHp": 715,
+          "mana": 50,
+          "maxMana": 50,
+          "attack": 8,
+          "defense": 13,
+          "monsterKills": 56,
+          "miningCount": 50,
+          "woodcuttingCount": 40,
+          "fishingCount": 61,
+          "titles": 4,
+          "equipment": 6,
+          "visitedLocations": 7,
+          "totalPlayTime": 263950413,
+          "consecutiveDays": 0
+        }
+      }
+    ],
+    "totalPlayTime": 301385686,
+    "lastLogin": 1751110560980,
+    "achievements": {
+      "unlocked": [
+        "First Blood",
+        "Mining Beginner"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {
+          "daily_hunt": 10,
+          "daily_mine": 50,
+          "daily_woodcut": 38,
+          "daily_fish": 1
+        },
+        "completed": {
+          "daily_mine": true,
+          "daily_hunt": true
+        },
+        "lastReset": 1751328000000
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 21,
+          "weekly_mine": 94,
+          "weekly_fish": 1
+        },
+        "completed": {},
+        "lastReset": 27
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 68
+          },
+          "story_challenge": {
+            "monsterKills": 68
+          },
+          "story_legend": {
+            "monsterKills": 84
+          }
+        },
+        "completed": {
+          "story_beginning": true,
+          "story_challenge": true,
+          "story_legend": true
+        },
+        "current": "story_beginning",
+        "claimed": {
+          "story_beginning": true,
+          "story_challenge": true
+        }
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 27,
+      "progress": {
+        "mining_master": 112,
+        "monster_hunter": 21,
+        "woodcutter": 38,
+        "fishing_expert": 1
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750809175294,
+    "lastUpdated": 1751368206204
+  },
+  "6282143231787@s.whatsapp.net": {
+    "nama": "Plerres",
+    "kelas": "Assassin",
+    "level": 1,
+    "hp": 66,
+    "maxHp": 110,
+    "mana": 50,
+    "maxMana": 50,
+    "attack": 15,
+    "defense": 5,
+    "gold": 961,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": null,
+      "zirah": null,
+      "celana": null,
+      "sepatu": null,
+      "senjata": "Pedang Baja",
+      "aksesoris": null
+    },
+    "tas": {},
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Pemburu",
+      "Penjelajah"
+    ],
+    "skills": [],
+    "monsterKills": 124,
+    "miningCount": 0,
+    "woodcuttingCount": 0,
+    "fishingCount": 0,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Rawa Kabut",
+      "Jantung Rawa",
+      "Perbatasan Busuk"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750816926131,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 100
+        },
+        "completed": {
+          "weekly_hunt": true
+        },
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 124
+          },
+          "story_challenge": {
+            "monsterKills": 124
+          },
+          "story_legend": {
+            "monsterKills": 124
+          }
+        },
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "monster_hunter": 100
+      },
+      "completed": {
+        "monster_hunter": true
+      },
+      "claimed": {}
+    },
+    "joinDate": 1750816926131,
+    "lastUpdated": 1751368206204
+  },
+  "6282275385953@s.whatsapp.net": {
+    "nama": "Rachel",
+    "kelas": "Archer",
+    "level": 1,
+    "hp": 115,
+    "maxHp": 115,
+    "mana": 50,
+    "maxMana": 50,
+    "attack": 14,
+    "defense": 5,
+    "gold": 100,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": null,
+      "zirah": null,
+      "celana": null,
+      "sepatu": null,
+      "senjata": null,
+      "aksesoris": null
+    },
+    "tas": {
+      "Busur Pemburu": 1
+    },
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [],
+    "skills": [],
+    "monsterKills": 0,
+    "miningCount": 0,
+    "woodcuttingCount": 0,
+    "fishingCount": 0,
+    "visitedLocations": [
+      "Desa Awal"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750853180775,
+    "achievements": {
+      "unlocked": [],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {},
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {},
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {},
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750853180775,
+    "lastUpdated": 1751368206204
+  },
+  "62895352249240@s.whatsapp.net": {
+    "nama": "Rayyan",
+    "kelas": "Adventurer",
+    "level": 1,
+    "hp": 30,
+    "maxHp": 100,
+    "mana": 50,
+    "maxMana": 50,
+    "attack": 10,
+    "defense": 5,
+    "gold": 81,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": false,
+    "equipment": {
+      "helem": null,
+      "zirah": null,
+      "celana": null,
+      "sepatu": null,
+      "senjata": null,
+      "aksesoris": null
+    },
+    "tas": {
+      "Daging": 1
+    },
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [],
+    "skills": [],
+    "monsterKills": 3,
+    "miningCount": 0,
+    "woodcuttingCount": 1,
+    "fishingCount": 3,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Rawa Kabut",
+      "Jantung Rawa",
+      "Danau Tenang"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [],
+    "totalPlayTime": 0,
+    "lastLogin": 1750947386550,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 3,
+          "weekly_fish": 3
+        },
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 3
+          },
+          "story_challenge": {
+            "monsterKills": 3
+          },
+          "story_legend": {
+            "monsterKills": 3
+          }
+        },
+        "completed": {},
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "monster_hunter": 3,
+        "woodcutter": 1,
+        "fishing_expert": 3
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1750947386550,
+    "lastUpdated": 1751368206204
+  },
+  "6289501687369@s.whatsapp.net": {
+    "nama": "Riyadh",
+    "kelas": "Mage",
+    "level": 25,
+    "hp": 341,
+    "maxHp": 760,
+    "mana": 340,
+    "maxMana": 340,
+    "attack": 13,
+    "defense": 5,
+    "gold": 2112,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Topi Jerami",
+      "zirah": "Jubah Kain",
+      "celana": "Celana Sihir",
+      "sepatu": "Sandal Kayu",
+      "senjata": "Tongkat Sihir",
+      "aksesoris": "Cincin Emas"
+    },
+    "tas": {},
+    "tools": {},
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Penjelajah",
+      "Terlengkapi"
+    ],
+    "skills": [],
+    "monsterKills": 28,
+    "miningCount": 52,
+    "woodcuttingCount": 5,
+    "fishingCount": 75,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Goa Misterius",
+      "Gunung Berapi",
+      "Danau Tenang",
+      "Rawa Kabut",
+      "Terowongan Magma"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [
+      {
+        "date": "Sat Jun 28 2025",
+        "stats": {
+          "level": 1,
+          "gold": 1039,
+          "hp": 133,
+          "maxHp": 225,
+          "mana": 80,
+          "maxMana": 120,
+          "attack": 13,
+          "defense": 5,
+          "monsterKills": 10,
+          "miningCount": 50,
+          "woodcuttingCount": 5,
+          "fishingCount": 0,
+          "titles": 2,
+          "equipment": 4,
+          "visitedLocations": 4,
+          "totalPlayTime": 39603758,
+          "consecutiveDays": 0
+        }
+      }
+    ],
+    "totalPlayTime": 75889706,
+    "lastLogin": 1751107500068,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {},
+        "completed": {},
+        "lastReset": 1751241600000,
+        "claimed": {}
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 28,
+          "weekly_mine": 52,
+          "weekly_fish": 75
+        },
+        "completed": {},
+        "lastReset": null
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 25
+          },
+          "story_challenge": {
+            "monsterKills": 28
+          },
+          "story_legend": {
+            "monsterKills": 28
+          }
+        },
+        "completed": {
+          "story_beginning": true,
+          "story_challenge": true
+        },
+        "current": "story_beginning"
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 26,
+      "progress": {
+        "woodcutter": 5,
+        "monster_hunter": 28,
+        "mining_master": 52,
+        "fishing_expert": 75
+      },
+      "completed": {},
+      "claimed": {}
+    },
+    "joinDate": 1751031610362,
+    "lastUpdated": 1751368206204
+  },
+  "6282346023361@s.whatsapp.net": {
+    "nama": "Namles",
+    "kelas": "Archer",
+    "level": 20,
+    "hp": 680,
+    "maxHp": 680,
+    "mana": 2540,
+    "maxMana": 2600,
+    "attack": 14,
+    "defense": 5,
+    "gold": 900,
+    "lokasi": "Desa Awal",
+    "status": "active",
+    "hasChosenClass": true,
+    "equipment": {
+      "helem": "Helem Baja",
+      "zirah": "Jubah Besi",
+      "celana": "Celana Baja",
+      "sepatu": "Sepatu Besi",
+      "senjata": "Pedang Baja",
+      "aksesoris": "Cincin Perak"
+    },
+    "tas": {
+      "Daging": 4,
+      "Pedang Kayu": 1,
+      "Title: Pemula": 1,
+      "Potion HP": 55,
+      "Belati Besi": 1,
+      "Batu Obsidian": 1,
+      "Pasir": 1,
+      "Tanah Liat": 2,
+      "Batu": 2,
+      "Batu Marmer": 1,
+      "Batu Kapur": 1,
+      "Pecahan Es Murni": 2,
+      "Perban Kuno": 1,
+      "Darah Lintah": 1,
+      "Pedang Besi": 2,
+      "Title: Petarung": 1,
+      "Capit Kepiting": 16,
+      "Belati Bayangan": 1
+    },
+    "tools": {
+      "Beliung Kayu_1751299454379": {
+        "id": "Beliung Kayu_1751299454379",
+        "nama": "Beliung Kayu",
+        "tipe": "beliung",
+        "durability": 52,
+        "maxDurability": 60,
+        "tier": "kayu",
+        "stats": {
+          "mining": 1
+        },
+        "hargaJual": 70
+      },
+      "Kapak Besi_1751341742752": {
+        "id": "Kapak Besi_1751341742752",
+        "nama": "Kapak Besi",
+        "tipe": "kapak",
+        "durability": 200,
+        "maxDurability": 200,
+        "tier": "besi",
+        "stats": {
+          "chopping": 3
+        },
+        "hargaJual": 400
+      },
+      "Beliung Besi_1751341750822": {
+        "id": "Beliung Besi_1751341750822",
+        "nama": "Beliung Besi",
+        "tipe": "beliung",
+        "durability": 250,
+        "maxDurability": 250,
+        "tier": "besi",
+        "stats": {
+          "mining": 3
+        },
+        "hargaJual": 450
+      },
+      "Sekop Besi_1751354699577": {
+        "id": "Sekop Besi_1751354699577",
+        "nama": "Sekop Besi",
+        "tipe": "sekop",
+        "durability": 120,
+        "maxDurability": 120,
+        "tier": "besi",
+        "stats": {
+          "digging": 3
+        },
+        "hargaJual": 250
+      }
+    },
+    "pvpStats": {
+      "rating": 1000,
+      "wins": 0,
+      "losses": 0
+    },
+    "titles": [
+      "Pemula",
+      "Miskin",
+      "Penjelajah",
+      "Petarung",
+      "Penjelajah Dunia",
+      "Ksatria",
+      "Pembunuh",
+      "Legenda",
+      "Mitos",
+      "Archer Master",
+      "Terlengkapi",
+      "Pemburu"
+    ],
+    "skills": [],
+    "monsterKills": 101,
+    "miningCount": 8,
+    "woodcuttingCount": 0,
+    "fishingCount": 0,
+    "visitedLocations": [
+      "Desa Awal",
+      "Hutan Rindang",
+      "Goa Misterius",
+      "Rawa Kabut",
+      "Jantung Rawa",
+      "Gunung Berapi",
+      "Gurun Pasir Tandus",
+      "Oasis Tersembunyi",
+      "Reruntuhan Kuno",
+      "Makam Firaun",
+      "Koridor Labirin",
+      "Danau Tenang",
+      "Lereng Bersalju",
+      "Puncak Es Abadi",
+      "Portal Retak",
+      "Ambang Aether",
+      "Taman Gantung Abadi",
+      "Benteng Paradox",
+      "Kuil Beku",
+      "Altar Es",
+      "Perpustakaan Beku",
+      "Jembatan Pelangi",
+      "Avanthoria, Kota Awan",
+      "Padang Rumput Angin",
+      "Terowongan Magma",
+      "Pesisir Pantai",
+      "Toko peralatan mas Buudi"
+    ],
+    "consecutiveDays": 0,
+    "friends": [],
+    "friendRequests": [],
+    "blockedPlayers": [],
+    "statsHistory": [
+      {
+        "date": "Mon Jun 30 2025",
+        "stats": {
+          "level": 1,
+          "gold": 200,
+          "hp": 100,
+          "maxHp": 100,
+          "mana": 50,
+          "maxMana": 50,
+          "attack": 10,
+          "defense": 5,
+          "monsterKills": 0,
+          "miningCount": 0,
+          "woodcuttingCount": 0,
+          "fishingCount": 0,
+          "titles": 0,
+          "equipment": 0,
+          "visitedLocations": 1,
+          "totalPlayTime": 609998,
+          "consecutiveDays": 0
+        }
+      }
+    ],
+    "totalPlayTime": 23191546,
+    "lastLogin": 1751319422089,
+    "achievements": {
+      "unlocked": [
+        "First Blood"
+      ],
+      "progress": {}
+    },
+    "quests": {
+      "daily": {
+        "progress": {
+          "daily_hunt": 10
+        },
+        "completed": {
+          "daily_hunt": true
+        },
+        "lastReset": 1751328000000,
+        "claimed": {
+          "daily_hunt": true
+        }
+      },
+      "weekly": {
+        "progress": {
+          "weekly_hunt": 100,
+          "weekly_mine": 8
+        },
+        "completed": {
+          "weekly_hunt": true
+        },
+        "lastReset": 27,
+        "claimed": {
+          "weekly_hunt": true
+        }
+      },
+      "story": {
+        "progress": {
+          "story_beginning": {
+            "monsterKills": 48
+          },
+          "story_challenge": {
+            "monsterKills": 55
+          },
+          "story_legend": {
+            "monsterKills": 101
+          }
+        },
+        "completed": {
+          "story_beginning": true,
+          "story_challenge": true
+        },
+        "current": "story_beginning",
+        "claimed": {
+          "story_beginning": true,
+          "story_challenge": true
+        }
+      }
+    },
+    "weeklyChallenges": {
+      "currentWeek": 27,
+      "progress": {
+        "monster_hunter": 100,
+        "mining_master": 8
+      },
+      "completed": {
+        "monster_hunter": true
+      },
+      "claimed": {}
+    },
+    "joinDate": 1751296230543,
+    "lastUpdated": 1751368206204
+  }
+}
