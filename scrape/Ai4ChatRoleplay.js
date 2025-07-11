@@ -28,8 +28,8 @@ User: ${prompt}
 Ray:`;
     }
 
-    const apiKey = "AIzaSyAqUvQPtc6ZOs_pK2DfuBxi46XpxVbl7nU";
-    const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
+    const apiKey = "...";
+    const apiUrl = `...`;
     const payload = {
         contents: [{
             role: "user",
